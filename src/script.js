@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>I Like Me Better</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Lauv</div>
 
 <div class="player">
 <div class="topRow">
@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -108,17 +108,10 @@ html:`
 <div class="letterContent">
 
 <span class="signal">TRANSMISSION START</span><br><br>
+Today marks another revolution around the sun that we've made together and I still can't believe how lucky I am to have found you on this vast, noisy dial of life. Out of every signal, every voice, every song drifting through the airwaves, mine always finds its way home to yours. So here, on this special day, I want the whole universe to hear it loud and clear: I love you — endlessly, completely, without static or interruption. Thank you for making every single day sound like the best song I've ever heard.
 
-TRANSMISSION START
+This one's dedicated to you. Always.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
-
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
-
-But like late night radio waves that stay playing even when the world sleeps.
-
-END SIGNAL
 <span class="signal">END SIGNAL</span>
 
 </div>
